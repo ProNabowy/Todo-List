@@ -1,5 +1,9 @@
 # Task: Build a Todo List App with CRUD Functionality
 
+## Commends
+to run => npm run dev
+to build => npm run build
+
 ## Status: Task Completed
 I have successfully built the Todo List application following the specified requirements and criteria. Below is a summary of the completed task.
 
