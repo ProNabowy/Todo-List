@@ -1,6 +1,7 @@
 # Task: Build a Todo List App with CRUD Functionality
 
 ## Commends
+- install packages => npm install
 - to run => npm run dev
 - to build => npm run build
 
